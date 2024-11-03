@@ -3,25 +3,24 @@ Case Project about Microsoft 365 Identity and Services I: Enterprise Administrat
 #  Project Overview
 This project involved in customizing an Private Microsoft 365 profile, managing,Selecting and Creating users and asiigning  licenses using PowerShell, and installing and configuring various Microsoft 365 apps for enterprise, working with Exchange, SharePoint, and Teams.
 #  Tools And Technologies:
-• Org Settings
+ Org Settings
 
-• Microsoft 365 Admin Center
+ Microsoft 365 Admin Center
 
-• PowerShell
+ PowerShell
 
-• Oracle VM VirtualBox Manager
+ Oracle VM VirtualBox Manager
 
-• Office Portal
+ Office Portal
 
-• Microsoft Exchange Admin Center
+ Microsoft Exchange Admin Center
 
-• Microsoft Outlook
+ Microsoft Outlook
 
-• Microsoft Teams
-
-• Microsoft SharePoint
-
-#  Tools And Technologies:
+ Microsoft Teams
  
+ Microsoft SharePoint
+# Key Responsibilities and Achievements:
+  
 
 
