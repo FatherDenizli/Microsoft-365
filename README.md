@@ -37,6 +37,6 @@ Created a shared mailbox and distribution list, given access to users, verified 
  Displayed active site, created a document library site,added two created users and Changed the sharing policy and  restricted file sharing to organization members only (Tasks 5.1-5.3).
 
 # Problem Solved
-The project addressed the need to manage Microsoft 365 services efficiently, ensuring seamless collaboration, secure communication, and compliance with organizational policies. It enhanced the IT infrastructure's productivity and security, facilitating better resource management and user experience. By the end of this project, I demonstrated proficiency in automating tasks and managing configurations using PowerShell and Microsoft 365 application tools.  
+The project was first added to the Microsoft 365 page and color configuration was made. Then, user creation or license allocation processes were performed using PowerShell. Then, Ofise 365 installation was installed on a created Virtual machine. Then, Shared mailbox and distribution list were created and their working were verified by sending e-mails. Finally, SharePoint was created and a policy was determined. A good work was done on strengthening and developing the IT infrastructure. At the end of this project, I demonstrated competence in automating tasks and managing configurations using PowerShell and Microsoft 365 application tools.
 
 
